@@ -89,7 +89,7 @@ O sistema reconhece todas as **12 notas musicais**:
 
 ### Componentes Obrigatórios:
 - **Raspberry Pi** (3B+, 4B ou superior)
-- **Microfone USB** ou **módulo de áudio**
+- **Microfone USB ** ou **módulo de áudio**
 - **Display LCD 16x2** com interface I2C (PCF8574)
 - **2x LEDs** (Verde e Vermelho)
 - **2x Resistores** (220Ω para LEDs)
@@ -151,7 +151,7 @@ sudo python3 "Saiba sua nota raspberry pi/saiba_sua_nota_raspberry_pi.py"
 
 ## 🐛 Solução de Problemas
 
-### ❌ Microfone não detectado
+### ❌ Microfone ou módulo de áudio não detectado
 **Sintomas**: Erro ao iniciar, sem detecção de áudio
 **Soluções**:
 - Verifique conexão USB/3.5mm
@@ -188,7 +188,7 @@ sudo python3 "Saiba sua nota raspberry pi/saiba_sua_nota_raspberry_pi.py"
 ### ✅ Versão Computador:
 - [ ] Python 3.7+ instalado
 - [ ] Dependências instaladas
-- [ ] Microfone funcionando
+- [ ] Microfone ou módulo de áudio funcionando
 - [ ] Programa executando
 - [ ] Menu principal aparece
 
@@ -197,7 +197,7 @@ sudo python3 "Saiba sua nota raspberry pi/saiba_sua_nota_raspberry_pi.py"
 - [ ] I2C habilitado
 - [ ] Display LCD conectado
 - [ ] LEDs montados
-- [ ] Microfone USB funcionando
+- [ ] Microfone ou módulo de áudio USB funcionando
 - [ ] Programa executando com sudo
 
 ## 🎓 Aplicações Educacionais
@@ -269,3 +269,4 @@ Projeto educacional de código aberto para fins de aprendizado e ensino musical.
 **🎸 Projeto educacional para aprendizado musical interativo! 🎵✨**
 
 *Desenvolvido com ❤️ para a educação musical*
+
