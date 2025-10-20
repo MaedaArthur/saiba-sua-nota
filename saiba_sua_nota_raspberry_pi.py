@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*-
 
 """
-Jogo de notas musicais para Raspberry Pi com LCD, botão, potenciômetro e LEDs.
-O usuário pressiona o botão para iniciar o jogo e deve tocar as notas pedidas.
+Jogo de notas musicais para Raspberry Pi com LCD e LEDs.
+O usuário deve tocar as notas pedidas
 """
 
 import sys, time, threading, random
