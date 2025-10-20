@@ -227,11 +227,12 @@ saiba-sua-nota/
 ├── README.md                           # Documentação principal
 ├── requirements.txt                    # Dependências computador
 ├── TESTE_COMPUTADOR.md                # Guia de teste computador
-├── saiba_sua_nota.py                  # Versão computador
+├── Saiba sua nota software/
+│   ├── requirements.txt               # Dependências software
+│   └── saiba_sua_nota.py               # Versão computador
 ├── Saiba sua nota raspberry pi/
 │   ├── requirements.txt               # Dependências Raspberry Pi
-│   └── saiba_sua_nota_raspberry_pi.py # Versão Raspberry Pi
-└── GUIA_GITHUB.md                     # Guia para GitHub
+└──   └── saiba_sua_nota_raspberry_pi.py # Versão Raspberry Pi
 ```
 
 ## 🤝 Contribuição
